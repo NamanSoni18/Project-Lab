@@ -1,6 +1,4 @@
-/* Create class Account (Data members- Id, Account_holder_name, Address; Methodsdeposit(), 
-withdraw()). Create two static methods in Account calculateSimpleInterest() and 
-calculateCompoundInterest() and implement them. */
+/* Create class Account (Data members- Id, Account_holder_name, Address; Methodsdeposit(), withdraw()). Create two static methods in Account calculateSimpleInterest() and calculateCompoundInterest() and implement them. */
 
 package Question3;
 
