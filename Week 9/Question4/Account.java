@@ -1,3 +1,7 @@
+/* Create class Account (Data members- Id, Account_holder_name, Address; Methodsdeposit(), 
+withdraw()). Declare deposit() and withdraw() as abstract methods. Declare Account class as abstract. 
+(Create constructor in Account as well). */
+
 package Question4;
 
 abstract class Account {

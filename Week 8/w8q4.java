@@ -1,3 +1,6 @@
+/* Add one-argument constructor and two-argument constructor in addition to default constructor in 
+FRUIT class. */
+
 public class w8q4 {
     static class FRUIT {
         private String color;

@@ -1,3 +1,4 @@
+// Use the concept of constructor-chaining in the previous question using this().
 
 public class w8q5 {
     static class FRUIT {

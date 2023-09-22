@@ -1,3 +1,7 @@
+/* Create a class FRUIT which has data members color, taste and price. It has a method setDetails() 
+which will set the values of color, taste and price. Also create a method display() which will print 
+values of FRUIT object. */
+
 public class w8q2 {
     static class FRUIT {
         String color;

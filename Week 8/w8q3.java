@@ -1,3 +1,5 @@
+//  In previous question, set the values of using color, taste and price using Constructor.
+
 public class w8q3 {
     static class FRUIT {
         private String color;
