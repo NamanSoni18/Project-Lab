@@ -1,6 +1,4 @@
-/*  Create a class Vehicle, write a method cost() in this class. Create two classes Bus and Train which 
-have their own display() methods and inherit from Vehicle class. Create objects of Bus and Train class 
-and call cost() and display() methods. */
+/*  Create a class Vehicle, write a method cost() in this class. Create two classes Bus and Train which have their own display() methods and inherit from Vehicle class. Create objects of Bus and Train class and call cost() and display() methods. */
 
 package Question1;
 public class w9q1 {
