@@ -1,7 +1,4 @@
-/* Create two children of Account- Saving (Data Members- Min_balance; Methodsdisplay(), deposit(), 
-withdraw()) and Current (Data Members Max_withdrawl_limit; Methods display(), deposit(), withdraw()).
-Create constructors for both classes. Implementation of deposit() and withdraw() should be specific 
-to Saving and Current class. Create objects of Saving and Current class and display them. */
+/* Create two children of Account- Saving (Data Members- Min_balance; Methodsdisplay(), deposit(), withdraw()) and Current (Data Members Max_withdrawl_limit; Methods display(), deposit(), withdraw()).Create constructors for both classes. Implementation of deposit() and withdraw() should be specific to Saving and Current class. Create objects of Saving and Current class and display them. */
 
 package Question5;
 
